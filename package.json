@@ -1,6 +1,6 @@
 {
   "name": "igniva-kit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Bootstrap Node Apps.",
   "main": "index.js",
   "directories": {
