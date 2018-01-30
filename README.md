@@ -9,8 +9,8 @@ Bootstrap Node Apps.
 ### Running it
 
 ```
-npm install -g toolkit
-toolkit
+npm install -g igniva-kit
+igniva-kit hello
 ```
 
 ### Todo

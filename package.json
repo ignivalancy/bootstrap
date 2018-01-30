@@ -1,5 +1,5 @@
 {
-  "name": "toolkit",
+  "name": "igniva-kit",
   "version": "0.1.0",
   "description": "Bootstrap Node Apps.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "toolkit": "./bin/global.js"
+    "igniva-kit": "./bin/global.js"
   },
   "preferGlobal": true,
   "author": "Lancy Goyal",
